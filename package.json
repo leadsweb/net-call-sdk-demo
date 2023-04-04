@@ -20,7 +20,7 @@
     "react-router-dom": "^6.8.2",
     "react-scripts": "5.0.1",
     "rtc-device-detector-react": "^1.0.7",
-    "net-call-sdk": "1.0.2",
+    "net-call-sdk": "^1.0.4",
     "typescript": "^4.9.4",
     "web-vitals": "^2.1.4"
   },
